@@ -1,8 +1,8 @@
 ### Main server
-1. Redis is an open-source, in-memory data structure store, 
-2. used as a database, cache, and message broker One of the key 
-3. features of Redis is its ability to keep all data in memory, 
-4. which allows for high performance and low latency access to data.
+Redis is an open-source, in-memory data structure store, 
+used as a database, cache, and message broker One of the key 
+features of Redis is its ability to keep all data in memory, 
+which allows for high performance and low latency access to data.
 
 1. this will send the prblem to the redis or in memory queue which is connectd to kafka
 2. kafka or pub sub models sends it to workers node
